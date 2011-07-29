@@ -1,0 +1,8 @@
+.classpath
+.project
+.svn
+local.properties
+bin
+gen
+libs
+obj
