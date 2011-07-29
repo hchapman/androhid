@@ -1,0 +1,2 @@
+I'm trying to extend the Androhid project to be a
+versatile gamepad controller (i.e. for an HTPC setup)
